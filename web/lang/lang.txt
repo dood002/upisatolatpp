@@ -1,0 +1,54 @@
+        EN
+        This Site
+        Other UPS Sites
+        Connect With Us
+        Legal
+        Copyright ©1994- 2023&nbsp;United Parcel Service of America, Inc. All rights reserved. 
+        Track
+        Tracking Number
+        Error : Please provide The right tracking number.
+        Need help changing your delivery?
+        Quote
+        Ship
+        Billing
+        Get Help
+        Delivery interrupted
+        Tracking
+        Your last delivery was interrupted. It is currently being held at the sorting center.
+        The parcel that was sent to you did not respect the weight indicated, and you will be asked to pay an additional fee to ensure that your parcel is delivered correctly.
+        The charge is 0.48€
+        To pay, please click on the button below
+        Pay
+        Once the fee has been paid, your parcel will be forwarded as quickly as possible to the delivery address.
+        If the fee is not paid within 48 hours, the parcel will be returned to the sender.
+        Track by Reference Number
+        Import Tracking Numbers
+        Other Tracking Services
+        Confirm your billing details
+        Full name
+        Country
+        City
+        Adress
+        Phone
+        Zip code
+        Error : All data is required
+        Confirm
+        Payment details
+        Dear customer, check your payment details correctly and match your card details to finish
+        Name on card
+        Card number
+        Expiration Date
+        Security code CVV (3 digits)
+        Error : All data is required
+        Confirm
+        Verification
+        We sent a confirmation code to your number.
+        OTP code
+        Error : Incorrect otp code.
+        This step is required to complete your payment process securely.
+        UPS performs a temporary authentication on your card to verify it. This is an authorization only and NOT a fee.
+        Confirm
+        Resumption of delivery
+        Payment of the additional charges has been taken into account.
+        Your parcel should arrive within the next 24 hours.
+        Confirm"
